@@ -1,4 +1,7 @@
+#eslintrc
 .eslintrc
+#jshint
 .jshintrc
+#prettierrc
 .prettierrc
 cssscomb.json
