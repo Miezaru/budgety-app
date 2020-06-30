@@ -1,9 +1,12 @@
+package-lock.json
+node_modules
 #.idea - intelliJ IDEA Keybindings
 .idea
 #eslintrc
 .eslintrc
 #jshint
 .jshintrc
+
 #prettierrc
 .prettierrc
 cssscomb.json
